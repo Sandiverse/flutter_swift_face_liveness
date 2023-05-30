@@ -31,7 +31,7 @@ struct FaceLivenessDetectionView: View {
 //                .edgesIgnoringSafeArea(.all)
 //                .onAppear {
 //                    Task {
-//                        await self.viewModel.signIn(username: "sandy.ovg@gmail.com", password: "Test123@")
+//                        await self.viewModel.signIn(username: "", password: "")
 //                    }
 //                }
 //        } else if let livenessSessionId = sessionId {
